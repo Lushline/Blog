@@ -49,7 +49,7 @@ export const socialIcons = [
     svg: "support",
   },
   {
-    href: "https://github.com/lulin-666",
+    href: "https://github.com/Lushline",
     ariaLabel: "Github",
     title: "Github",
     svg: "github",
